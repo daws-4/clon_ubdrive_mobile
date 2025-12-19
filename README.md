@@ -1,7 +1,9 @@
 # Thomino's playground
 Get full Expo app templates on https://www.native-templates.com
 
-![Get full Expo apps on www.native-templates.com](assets/img/readme/readme.jpg)
+<a href="https://www.native-templates.com" target="_blank">
+  <img src="assets/img/readme/readme.jpg" alt="Get full Expo apps on www.native-templates.com" />
+</a>
 
 
 
