@@ -436,7 +436,7 @@ export default function SkiaScreen() {
                     </Text>
                 </View>
                 <View className="flex-1 bg-secondary rounded-2xl p-4">
-                    <Text className="text-text opacity-50 text-sm">Lowest</Text>
+                    <Text className="text-text opacity-50 text-sm">Más bajito</Text>
                     <Text className="text-text text-2xl font-bold mt-10">
                         ${Math.min(...currentData.map(d => d.value))}k
                     </Text>
